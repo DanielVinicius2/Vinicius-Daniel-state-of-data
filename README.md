@@ -65,7 +65,7 @@ vinicius-daniel-state-of-data/
 
 ## Dashboard
 
-> 🔗 [Link do dashboard no Google Looker Studio](#) ← substituir pelo link real antes de entregar
+https://datastudio.google.com/s/lMHNO1GLysM
 
 ---
 
