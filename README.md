@@ -65,7 +65,7 @@ vinicius-daniel-state-of-data/
 
 ## Dashboard
 
-https://datastudio.google.com/s/lMHNO1GLysM
+[https://datastudio.google.com/s/lMHNO1GLysM](https://datastudio.google.com/s/rj1yCkzofgM)
 
 ---
 
